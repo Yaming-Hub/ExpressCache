@@ -1,2 +1,2 @@
-# AsyncCache
-A async cache library.
+# Express Cache
+A light weight C# cache library.
